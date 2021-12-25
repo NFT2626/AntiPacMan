@@ -697,7 +697,7 @@ preloader.start().then(() => {
 
   sounds.opening.play();
 
-  textBlock.innerHTML = "<p class='big'>AntiPacMan</p><p>Defeat a pacman by drawing its symbol anywhere</p>";
+  textBlock.innerHTML = "<p class='big'>Cozomo VS PHUNKSMAN</p><p>Signore Defeat a PHUNKSMAN by drawing its symbol anywhere</p>";
 
   startButton.classList.remove('hidden');
   startButton.focus();
